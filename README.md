@@ -44,13 +44,10 @@ The system leverages a pipeline of **state-of-the-art models and techniques**:
 ---
 
 ## **Architecture Diagram**  
+![Screenshot 2024-12-15 115613](https://github.com/user-attachments/assets/1b1bcbc9-24c0-4510-9f17-7660a182ff2e)
 
-```
-             ![image](https://github.com/user-attachments/assets/b0738812-4cc5-48a5-a014-98c628148f92)
 
----
-
-## **Technologies and Tools**  
+**Technologies and Tools**  
 1. **CLIP**: For vision-language alignment.  
 2. **Multilingual Language Models**:  
    - **gert** for text generation.  
