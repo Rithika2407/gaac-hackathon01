@@ -23,7 +23,9 @@ Designed for people worldwide, with no language restrictions or barriers.
 Python
 Hugging Face Transformers
 CLIP Model
-BERT Model
+BERT Model 
+multilingual-e5-language-detection
+mbart-large-50-many-to-many-mmt
 
 **💡 How It Works**
 Upload an Image:
