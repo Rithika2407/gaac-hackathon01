@@ -1,6 +1,8 @@
 
 
 **Zero-Shot Image Captioning**
+
+
 📋 **Project Overview**
 This project enables zero-shot image captioning, allowing users to generate captions for images in languages they choose, even for images the model has never seen before. It leverages Hugging Face Transformers, CLIP, and BERT models to provide versatile and language-independent captions.
 
