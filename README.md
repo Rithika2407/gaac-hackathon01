@@ -46,31 +46,7 @@ The system leverages a pipeline of **state-of-the-art models and techniques**:
 ## **Architecture Diagram**  
 
 ```
-             +------------------------+
-             |   Input Image          | 
-             +------------------------+
-                         │
-                         ▼
-             +------------------------+      
-             |   CLIP Visual Encoder  |   ← Extracts image embeddings
-             +------------------------+
-                         │
-                         ▼
-             +------------------------+      
-             |   Few-Shot Prompting   |   ← Target language examples 
-             +------------------------+
-                         │
-                         ▼
-             +------------------------+      
-             |   Multilingual LM      |   ← Combines visual & text embeddings
-             |       |
-             +------------------------+
-                         │
-                         ▼
-             +------------------------+      
-             |  Caption in Target Lang|   ← Final caption output
-             +------------------------+
-```  
+             ![image](https://github.com/user-attachments/assets/b0738812-4cc5-48a5-a014-98c628148f92)
 
 ---
 
