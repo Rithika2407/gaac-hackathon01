@@ -1,4 +1,4 @@
-# gaac-hackathon
+# Gaac-hackathon
 Team Introduction
 
 **Team Members:**
