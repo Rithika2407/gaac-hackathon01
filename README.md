@@ -109,10 +109,13 @@ Open the provided Colab Notebook or execute the Python script locally.
 🌐 Try It Out on Google Colab
 Open the Colab File Here
 https://colab.research.google.com/drive/1LoDSWYE4QiASh0xgFEV7Ag8LlGtXxes5?usp=sharing
+
 Run all the cells in the Colab file.
 Upload your desired image when prompted.
 Select the target language or input a sample sentence for the output caption.
+
 📷 Example Usage
+
 Input Image:
 Upload an image of a dog sitting in a park.
 
