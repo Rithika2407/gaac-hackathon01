@@ -1,53 +1,57 @@
-# Gaac-hackathon
-Team Introduction
+# GAAC Hackathon
 
-**Team Members:**
+## Team Introduction
 
-Name 1: Rithika 
+### **Team Members**
+- **Rithika**  
+- **Viswa**  
 
-Name 2: Viswa 
+### **Contact Information**
+- **Email Addresses**  
+  - Rithika: rbollapr@gitam.in  
+  - Viswa: vss.viswatejabottu@gmail.com  
 
-**Email Addresses:**
+- **LinkedIn Profiles**  
+  - Rithika: [LinkedIn Profile](https://www.linkedin.com/in/rithika-bollapragada-1419b325b)  
+  - Viswa: [LinkedIn Profile](https://www.linkedin.com/in/viswa-teja-bottu-7147831b3)  
 
-Email Address 1: rbollapr@gitam.in
+### **GitHub Connection**
+- Do you both follow each other on GitHub?  
+  **No**
 
-Email Address 2: vss.viswatejabottu@gmail.com
+---
 
-**LinkedIn Profiles:**
+## Hackathon Details
 
-LinkedIn ID 1: www.linkedin.com/in/rithika-bollapragada-1419b325b
+### **Excitement Level**
+- **How excited are you for this hackathon (rate 1-10)?**  
+  **10/10**  
 
-LinkedIn ID 2: https://www.linkedin.com/in/viswa-teja-bottu-7147831b3/
+### **Theme Selection**
+- **What theme are you taking up, and why?**  
+  We're exploring **Artificial Intelligence and Machine Learning (AIML)** because we’re intelligently curious about AI and ML—pun fully intended!  
 
-**GitHub Connection:**
+### **Expectations**
+- **What do you hope to achieve or learn from this hackathon?**  
+  - Gain hands-on experience.  
+  - Master the art of working efficiently under time constraints.  
+  - Prove that creativity and innovation can shine under pressure.
 
-Do you both follow each other on GitHub? (Yes/No) no actually 
+### **Team Strengths**
+- **What are the strengths of your team?**  
+  Seamless collaboration! We work together like a well-oiled machine, transforming ideas into reality.
 
-**Hackathon Excitement**
-How excited are you for this hackathon (rate 1-10)?
-10/10 
+---
 
-![db87749fc6457feee9516835113e15dc](https://github.com/user-attachments/assets/d69b56e4-ecf0-45bd-b7a8-d2c70fd79041)
+## Tools & Technologies
 
-**What theme are you taking up, and why?**
+- **What tools, frameworks, or technologies will you use?**  
+  **Python**—and lots of it!  
 
-We're diving into AIML because we’re intelligently curious about Artificial Intelligence and Machine Learning—pun fully intended!
+---
 
-**Expectations**
+## Fun Facts
 
-**What do you hope to achieve or learn from this hackathon?**
+- **What’s a fun fact about your team?**  
+  We’re both massive anime fans!  
 
-We hope to gain valuable experience, master the art of working under time constraints, and prove that creativity and innovation thrive even when the clock is ticking!
-
-**What are the strengths of your team?**
-
-Our team’s biggest strength is seamless collaboration—working together like a well-oiled machine to turn ideas into reality
-
-**What tools, frameworks, or technologies will you use?**
-python python and python
-
-**Fun Facts**
-
-**What’s a fun fact about your team?**
-
-We are both massive anime fans 
