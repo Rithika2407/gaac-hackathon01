@@ -53,44 +53,55 @@ Make sure you have Python and required libraries installed.
 bash
 Copy code
 pip install transformers torch pillow 
+
           +-----------------------+
           |     Input Image       |
           +-----------------------+
+          
                       |
                       v
+                      
           +-----------------------+
           |      Preprocessing    |
           |   (Resizing, Normalization) |
           +-----------------------+
+          
                       |
+                    
                       v
           +-----------------------+
           |       CLIP Model      |  <---- (Hugging Face Transformers)
           |  (Extract Image Features) |
           +-----------------------+
+          
                       |
                       v
           +-----------------------+
           |      Text Encoder     |  <---- (BERT or CLIP Text Encoder)
           | (Target Language/Sentence) |
           +-----------------------+
+          
                       |
                       v
           +-----------------------+
           |  Feature Comparison   |
           |    (Image ↔ Text)     |
           +-----------------------+
+          
                       |
                       v
           +-----------------------+
           |     Generate Caption  |
           |   (Desired Language)  |
           +-----------------------+
+          
                       |
                       v
+                      
           +-----------------------+
           |       Output Caption  |
           +-----------------------+
+
 
 **Run the Code:**
 Open the provided Colab Notebook or execute the Python script locally.
