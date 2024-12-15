@@ -10,17 +10,21 @@ This project enables zero-shot image captioning, allowing users to generate capt
 **Zero-Shot Captioning:**
 
 Generates captions for unseen images without prior training on them.
+
 **Multilingual Support:**
 
 Users can specify captions in any desired language or provide example sentences for guidance.
+
 **Easy-to-Use:**
 
 Designed for people worldwide, with no language restrictions or barriers.
+
 **🛠️ Technologies Used**
 Python
 Hugging Face Transformers
 CLIP Model
 BERT Model
+
 **💡 How It Works**
 Upload an Image:
 
@@ -31,6 +35,7 @@ Choose the desired language or provide a reference sentence.
 Generate Caption:
 
 The system generates a descriptive caption for the input image in the specified language.
+
 **⚙️ Setup and Installation**
 To run this project locally:
 
@@ -45,7 +50,8 @@ Make sure you have Python and required libraries installed.
 
 bash
 Copy code
-pip install transformers torch pillow  
+pip install transformers torch pillow 
+
 **Run the Code:**
 Open the provided Colab Notebook or execute the Python script locally.
 
