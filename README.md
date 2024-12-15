@@ -77,7 +77,7 @@ pip install transformers torch pillow
                       |
                       v
           +-----------------------+
-          |      Text Encoder     |  <---- (BERT or CLIP Text Encoder)
+          |      Text Encoder     |  <---- ( CLIP Text Encoder with bert model)
           | (Target Language/Sentence) |
           +-----------------------+
           
